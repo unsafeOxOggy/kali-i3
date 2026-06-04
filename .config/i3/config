@@ -10,11 +10,14 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec alacritty
 
+# start thunar
+bindsym $mod+Shift+f exec thunar
+
 # kill focused window
 bindsym $mod+w kill
 
 # start rofi (a program launcher)
-bindsym $mod+space exec "rofi -show run"
+bindsym $mod+space exec "rofi -show drun"
 
 # change focus (nvim style)
 bindsym $mod+h focus left
@@ -124,7 +127,9 @@ bar {
     font pango:RobotoMono Nerd Font Regular 9.5
     colors {
         statusline #E6FFF5
+
         background #1C1D2B88
+
         focused_workspace #282A3E88 #282A3E88 #FFFFFF
     }
 }
