@@ -121,8 +121,6 @@ chmod +x ~/.config/i3/clipboard_fix.sh                         # Make it executa
 
 # ─── i3blocks (status bar) ────────────────────────────────
 cp .config/i3blocks/i3blocks.conf ~/.config/i3blocks/i3blocks.conf     # Copy i3blocks config
-cp .config/i3blocks/cpu_useage.sh ~/.config/i3blocks/cpu_useage.sh     # Copy CPU usage script
-chmod +x ~/.config/i3blocks/cpu_useage.sh                              # Make it executable
 
 # ─── Alacritty (terminal) ─────────────────────────────────
 cp .config/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml # Copy terminal config
