@@ -14,7 +14,7 @@ rofi as application launcher, and Nerd Fonts for a clean look.
 Clone the repo and run the install script:
 
 ```js
-git clone https://github.com/0xFLE1J4/kali-i3.git
+git clone https://github.com/unsafeOxOggy/kali-i3.git
 cd kali-i3
 ./install.sh
 ```
@@ -74,7 +74,6 @@ The script will update your system and install all required packages.
     │   └── wallpaper.sh          # Wallpaper cycling
     │
     ├── i3blocks/
-    │   ├── cpu_useage.sh
     │   └── i3blocks.conf
     │
     ├── picom/
