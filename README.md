@@ -89,6 +89,6 @@ The script will update your system and install all required packages.
 
 
 ## Final
-<img width="1908" height="1036" alt="image" src="https://github.com/user-attachments/assets/c22a12d1-c43c-4c75-9332-be64a2f3279b" />
+<img width="1894" height="998" alt="image" src="https://github.com/user-attachments/assets/221f6cc3-3770-4676-99cd-0fe103615005" />
 
 
