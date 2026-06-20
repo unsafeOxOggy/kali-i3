@@ -112,6 +112,8 @@ echo_info "Copying configuration files..."
 cp .config/i3/config ~/.config/i3/config                        # Main i3 configuration
 cp .config/i3/wallpaper.sh ~/.config/i3/wallpaper.sh           # Wallpaper helper script
 chmod +x ~/.config/i3/wallpaper.sh                             # Make executable
+cp .config/i3/clipboard_fix.sh ~/.config/i3/clipboard_fix.sh   # Clipboard fix script
+chmod +x ~/.config/i3/clipboard_fix.sh                         # Make executable
 
 # ─── i3blocks (status bar) ────────────────────────────────
 cp .config/i3blocks/i3blocks.conf ~/.config/i3blocks/i3blocks.conf
