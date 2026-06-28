@@ -84,7 +84,7 @@ style = { shape = "Block", blinking = "Off" }
 unfocused_hollow = true
 
 [selection]
-save_to_clipboard = false
+save_to_clipboard = true
 semantic_escape_chars = ",│`|:\"' ()[]{}<>"
 
 [mouse]
